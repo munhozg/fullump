@@ -1,0 +1,24 @@
+ body{
+            background-color: black;
+            color: white;
+        }
+        h1{
+            color: rgb(2, 180, 94);
+        }
+        li{
+            color: rgba(7, 132, 17, 0.503);
+        }#html{
+
+            color: blue;
+
+        }
+        #css{
+
+        color: rgb(0, 255, 13);
+            
+        }
+        
+        #javascript{
+
+            color: rgb(255, 0, 238);
+        }
