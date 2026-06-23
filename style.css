@@ -22,3 +22,10 @@
 
             color: rgb(255, 0, 238);
         }
+
+        #curtidas{
+            background-color: aquamarine; /*cor de fundo*/
+            color: blueviolet; /*cord da letra*/
+            padding: 5px 10px 5px 10px
+            border: 2px solid 
+        } 
