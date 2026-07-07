@@ -1,5 +1,5 @@
 const curtidas = document.getElementById("curtidas") // peg o botão de cutidas pelo id
-curtidas.addEventListener("click",aumentarcurtidas ) // quando clicar chama a função 
+curtidas.addEventListener("click",aumentarCurtidas ) // quando clicar chama a função 
 
 // função de aumentar  curtidas 
 function aumentarCurtidas(){
